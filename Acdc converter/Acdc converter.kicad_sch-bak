@@ -3751,7 +3751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 179.324 114.554 90)
 			(effects
 				(font
@@ -3819,7 +3819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 178.054 103.124 90)
 			(effects
 				(font
@@ -3887,7 +3887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_GMSTB:PhoenixContact_GMSTBA_2,5_3-G-7,62_1x03_P7.62mm_Horizontal"
+		(property "Footprint" ""
 			(at 22.86 39.37 0)
 			(effects
 				(font
@@ -4367,7 +4367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_GMSTB:PhoenixContact_GMSTBA_2,5_3-G-7,62_1x03_P7.62mm_Horizontal"
+		(property "Footprint" ""
 			(at 241.3 105.41 0)
 			(effects
 				(font
@@ -4788,7 +4788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Transformer_THT:Transformer_CHK_EI30-2VA_1xSec"
+		(property "Footprint" ""
 			(at 68.58 44.45 0)
 			(effects
 				(font
